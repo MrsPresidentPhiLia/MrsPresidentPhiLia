@@ -1,16 +1,37 @@
-## Hi there 👋
+### Привет, я Mrs. President PhiLia 👋
 
-<!--
-**MrsPresidentPhiLia/MrsPresidentPhiLia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Живу в России, увлекаюсь экспериментами с программами и играми, изучаю операционные системы — от старых до новых.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек
+
+- Разработка: Python, VS Code, Git (GitHub)
+- ОС: Windows 11, Linux Mint, macOS Monterey
+- Монтаж и звук: CapCut, DaVinci Resolve, Audacity
+- Писательство: Office 2024 LTSC
+- Виртуализация: VirtualBox, VMware, BlueStacks
+
+---
+
+### 🎯 Текущие цели
+
+- [ ] Освоить Linux Mint
+- [ ] Освоить macOS Monterey в VMware
+- [ ] Прокачиваться в монтаже и программировании
+- [ ] Написать что-то интересное
+- [ ] Сделать полезную программу
+
+---
+
+### 📊 Статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrsPresidentPhiLia&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrsPresidentPhiLia&layout=compact&theme=radical)
+
+---
+
+### 📫 Контакты
+
+Пока открыта для общения через проекты на GitHub.
